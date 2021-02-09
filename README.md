@@ -34,7 +34,7 @@
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <img src="https://github.com/DamianOdendaal/DamianOdendaal/blob/main/assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="https://github.com/DamianOdendaal/DamianOdendaal/tree/main/assets/icons/php.png" alt="php"  width="100" hight="50">
+<img src="https://github.com/DamianOdendaal/DamianOdendaal/blob/main/assets/icons/php.png" alt="php"  width="100" hight="50">
 
 <img src="https://github.com/DamianOdendaal/DamianOdendaal/tree/main/assets/icons/bash.png" alt="bash" width="100" hight="50">
 
