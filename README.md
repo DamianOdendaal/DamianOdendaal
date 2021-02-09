@@ -44,7 +44,7 @@
 </br>
 <img src="https://github.com/DamianOdendaal/DamianOdendaal/blob/main/assets/icons/react.png" alt="react" width="100" hight="50">
 <img src="https://github.com/DamianOdendaal/DamianOdendaal/blob/main/assets/icons/aws.png" alt="aws" width="100" hight="50">
-<img src="https://github.com/DamianOdendaal/DamianOdendaal/blob/main/assets/icons/hackerrank.png" alt="hackerrank" width="150" hight="50">
+<img src="https://github.com/DamianOdendaal/DamianOdendaal/blob/main/assets/icons/hackerrank@2x.png" alt="hackerrank" width="150" hight="50">
 </p>
 </br>
 </br>
