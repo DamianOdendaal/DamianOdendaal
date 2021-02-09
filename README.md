@@ -63,9 +63,9 @@
 <img hight="300" width="450" align="right" alt="GIF" src="https://github.com/DamianOdendaal/DamianOdendaal/blob/main/assets/13626.gif">
 
 
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+If you want to reach out to me about anything. I am avaiable on the following
 
-<a href="dodendaa@student.wethinkcode.co.za">
+<a href="mailto:dodendaa@student.wethinkcode.co.za">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/DamianOdendaal/DamianOdendaal/blob/main/assets/icons/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/damian-odendaal-966017189//">
