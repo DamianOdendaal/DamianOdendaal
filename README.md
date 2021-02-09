@@ -43,6 +43,7 @@
 <img src="https://github.com/DamianOdendaal/DamianOdendaal/blob/main/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
 </br>
 <img src="https://github.com/DamianOdendaal/DamianOdendaal/blob/main/assets/icons/react.png" alt="react" width="100" hight="50">
+<img src="https://github.com/DamianOdendaal/DamianOdendaal/blob/main/assets/icons/vue@2x.png" alt="react" width="100" hight="50">
 <img src="https://github.com/DamianOdendaal/DamianOdendaal/blob/main/assets/icons/aws.png" alt="aws" width="100" hight="50">
 <img src="https://github.com/DamianOdendaal/DamianOdendaal/blob/main/assets/icons/hackerrank@2x.png" alt="hackerrank" width="100" hight="50">
 </p>
