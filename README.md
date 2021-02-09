@@ -36,15 +36,15 @@
 <img src="https://github.com/DamianOdendaal/DamianOdendaal/blob/main/assets/icons/python.png" alt="python" width="120" hight="50">
 <img src="https://github.com/DamianOdendaal/DamianOdendaal/blob/main/assets/icons/php.png" alt="php"  width="100" hight="50">
 
-<img src="https://github.com/DamianOdendaal/DamianOdendaal/tree/main/assets/icons/bash.png" alt="bash" width="100" hight="50">
+<img src="https://github.com/DamianOdendaal/DamianOdendaal/blob/main/assets/icons/bash.png" alt="bash" width="100" hight="50">
 
 </br>
-<img src="https://github.com/DamianOdendaal/DamianOdendaal/tree/main/assets/icons/docker.png" alt="docker" width="270" hight="50">
-<img src="https://github.com/DamianOdendaal/DamianOdendaal/tree/main/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
+<img src="https://github.com/DamianOdendaal/DamianOdendaal/blob/main/assets/icons/docker.png" alt="docker" width="270" hight="50">
+<img src="https://github.com/DamianOdendaal/DamianOdendaal/blob/main/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
 </br>
-<img src="https://github.com/DamianOdendaal/DamianOdendaal/tree/main/assets/icons/react.png" alt="react" width="100" hight="50">
-<img src="https://github.com/DamianOdendaal/DamianOdendaal/tree/main/assets/icons/aws.png" alt="aws" width="100" hight="50">
-<img src="https://github.com/DamianOdendaal/DamianOdendaal/tree/main/assets/icons/hackerrank.png" alt="hackerrank" width="150" hight="50">
+<img src="https://github.com/DamianOdendaal/DamianOdendaal/blob/main/assets/icons/react.png" alt="react" width="100" hight="50">
+<img src="https://github.com/DamianOdendaal/DamianOdendaal/blob/main/assets/icons/aws.png" alt="aws" width="100" hight="50">
+<img src="https://github.com/DamianOdendaal/DamianOdendaal/blob/main/assets/icons/hackerrank.png" alt="hackerrank" width="150" hight="50">
 </p>
 </br>
 </br>
