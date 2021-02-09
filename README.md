@@ -64,10 +64,10 @@
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
 <a href="dodendaa@student.wethinkcode.co.za">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/DamianOdendaal/DamianOdendaal/tree/main/assets/icons/gmail.png" />
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/DamianOdendaal/DamianOdendaal/blob/main/assets/icons/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/damian-odendaal-966017189//">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/DamianOdendaal/DamianOdendaal/tree/main/assets/icons/linkedin.png" />
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/DamianOdendaal/DamianOdendaal/blob/main/assets/icons/linkedin.png" />
 </br>
 </br>
 </br>
